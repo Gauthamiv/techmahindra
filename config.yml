@@ -1,0 +1,4 @@
+#frequency at which the API need to be called(Every specified hour)
+frequency: 4
+#Directory into which the response json needs to be written
+data-directory: D:\GoWorkspace\src\Golang_code_techmahindra
